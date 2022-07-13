@@ -4,7 +4,7 @@ import React from "react";
 const Login =  () => {
     return (
         <div>
-            <button> Profile Page</button>
+            <button>Login </button>
         </div>
     )
 }
